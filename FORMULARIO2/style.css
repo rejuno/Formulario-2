@@ -95,3 +95,20 @@ h2{
 fieldset{
     border: 0ch;
 }
+#botao{
+    margin-left: 45%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 3px;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+#botao:hover{
+    background-color: black;
+    color: white;
+}
+#confirmacao{
+    text-align: center;
+    
+}
