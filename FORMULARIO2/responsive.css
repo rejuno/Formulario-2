@@ -1,0 +1,24 @@
+@media screen and (max-width: 1252px){
+    form{
+        margin-left: 20%;
+    }
+
+}
+@media screen and (max-width: 1060px){
+    form{
+        margin-left: 14%;
+    }
+
+}
+@media screen and (max-width: 940px){
+    form{
+        margin-left: 9%;
+    }
+
+}
+@media screen and (max-width: 852px){
+    form{
+        margin-left: 4%;
+    }
+
+}

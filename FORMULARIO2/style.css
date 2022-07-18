@@ -1,0 +1,97 @@
+*{ /*Sempre colocar isso antes de começar a estilizar um site*/
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #C63D3C;
+    text-align: center;
+    font-size: 13pt;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+body{
+    background-image: url('img.jpg');
+    background-size: cover;
+    background-position: 50%;
+    
+    margin-top: 2%;
+    
+    justify-content: center;
+    
+}
+form{
+    background-color: white;
+    width: 800px;
+    margin-top: 2%;
+    margin-left: 29%;
+
+}
+div{
+    padding: 10px;
+}
+
+label{
+    font-family:'Courier New', Courier, monospace;
+}
+header h1{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    
+}
+#posicao{
+    text-align: center;
+    
+}
+
+#posicao2{
+    margin-left: 250px;
+    
+    
+}
+.posicao3{
+    margin-left: 210px;
+    
+}
+.itens-sos{
+    text-align: left;
+}
+#itens-local{
+    text-align: left;
+    font-size: 13pt;
+}
+#coluna{
+    text-align: center;
+    
+}
+#ch{
+    margin: 10px;
+}
+#posicao4{
+    text-align: center;
+}
+h2{
+    font-size: 10pt;
+    text-align: center;
+}
+#posicao5{
+    text-align: center;
+}
+#cabeca{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    
+    margin: 0%;
+    background-color: rgb(190, 184, 184);
+    border: 0ch;
+}
+#posicao6{
+    margin: 0px;
+    padding: 0%;
+    border: 0ch;
+
+}
+fieldset{
+    border: 0ch;
+}
